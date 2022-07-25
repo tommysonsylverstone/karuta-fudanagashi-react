@@ -1,0 +1,23 @@
+1) create card class
+    1.1) Properties
+        + id
+        + name
+        + content
+            - contains 3 lines
+    1.2) style
+        + big green borders #5A8953
+        + white background
+2) structure
+    2.1) Start button
+        - Goes to the fudanagashi page once clicked
+    2.2) Header
+        - title
+        - menu ?
+3) Timer
+    - Timer starts when going to the fudanagashi page and stops when all cards are cleared
+4) fudanagashi page
+    4.1) Modes
+        4.1.1) All at once
+            - Displays all cards at once, goes to another field when the present one is validated
+        4.1.2) One by one
+            - Display one card by one, displaying the next one once the present one is cleared
