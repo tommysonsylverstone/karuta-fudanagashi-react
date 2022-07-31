@@ -1,0 +1,24 @@
+.card {
+    max-height: 148px;
+    max-width: 106px;
+    height: 100%;
+    width: 100%;
+    border: solid 0.5em #5A8953;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 0.5em;
+    margin-bottom: 15px;
+}
+
+.card>.content {
+    text-align: justify;
+    display: block;
+    font-size: 20px;
+    writing-mode: vertical-rl;
+}
+
+.card>.content:after {
+    text-align: justify;
+    display: block;
+    font-size: 20px;
+}

@@ -4,6 +4,8 @@
         + name
         + content
             - contains 3 lines
+    1.2) Display cards
+        
     1.3) style
         + big green borders #5A8953
         + white background
